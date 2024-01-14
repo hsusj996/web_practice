@@ -1,5 +1,4 @@
 # 10000hours
-* 1만 시간의 법칙 사이트 리소스
-* web 구동을 위해 index.html 파일을 앞으로 배치해두었습니다.
-* https://paullabkorea.github.io/10000hour/ 에서 확인 가능합니다.
-* 해당 제작 과정은 무료강의로 오픈이 되어 있습니다. https://inf.run/j2JD 에서 확인이 가능합니다.
+* 인프런 강의 "1만 시간의 법칙 웹 페이지 제작하기" 클론 코딩입니다.
+* 기본적인 HTML, CSS, JS의 문법을 활용하여 간단한 클라이언트 페이지를 제작합니다.
+  ![image](https://github.com/hsusj996/web_practice/assets/84006404/6beb964b-88e7-40b0-a745-af8e9bee3a40)
